@@ -1,3 +1,4 @@
+alias apt="sudo apt"
 alias q!="exit"
 alias ?="pwd"
 alias hi="history |"
