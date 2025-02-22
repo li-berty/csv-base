@@ -1,0 +1,111 @@
+AI Name,Developer,Purpose
+Affectiva,Affectiva,AI for Emotion Recognition
+AIBO,Sony,Robotic Pet
+Alexa,Amazon,Personal Voice Assistant
+Alice,Yandex,Virtual Assistant
+AlphaCode,DeepMind,AI Code Generation
+AlphaFold,DeepMind,Protein Structure Prediction
+AlphaGo,DeepMind,Game Playing AI (Go)
+Amazon Rekognition,Amazon,Image and Video Analysis Service
+Artbreeder,Artbreeder,AI-Based Art Creation Platform
+BERT,Google,Natural Language Processing
+BigDL,Intel,Distributed Deep Learning Library
+BlenderBot,Meta (Facebook),Open-Domain Chatbot
+BloombergGPT,Bloomberg,Financial AI
+Blue Brain Project,École Polytechnique Fédérale de Lausanne (EPFL),Synthetic Brain Simulation
+Butterfly Network,Butterfly,AI for Ultrasound Imaging
+Caffe,Berkeley AI Research (BAIR),Deep Learning Framework
+Chainer,Preferred Networks,Deep Learning Framework
+ChatGPT,OpenAI,Text Content Generator
+Clarifai,Clarifai Inc.,Image and Video Recognition Platform
+Claude,Anthropic,Large Language Model for Text Generation and Assistance
+Clearview AI,Clearview AI,Facial Recognition Tool
+Cleverbot,Rollo Carpenter,AI Chatbot
+CMU Sphinx,Carnegie Mellon University,Speech Recognition System
+Code Llama,Meta,AI for Programming
+Cog,MIT,Cognitive Science and AI Research Robot
+Copilot,Microsoft & OpenAI,Code Assistance
+Copy.ai,Copy.ai,AI Content Generation Tool
+Cortana,Microsoft,Personal Voice Assistant
+Cruise AI,GM Cruise,Self-Driving AI
+DALL-E,OpenAI,Graphic Content Generator
+Darknet,Joseph Redmon,Open Source Neural Network Framework
+Darktrace,Darktrace,Cybersecurity AI
+DataRobot,DataRobot,Automated Machine Learning Platform
+DeepArt,DeepArt,AI Art Generator
+DeepDream,Google,Neural Network Image Processing
+DeepFace,Facebook,Deep Learning Facial Recognition System
+DeepL,DeepL GmbH,AI Language Translation
+Deeplearning4j,Skymind,Deep Learning Library for Java and Scala
+DeepSpeech,Mozilla,Speech-to-Text Engine
+ELIZA,Joseph Weizenbaum,Early NLP Program
+Ernie,Baidu,Enhanced Representation through Knowledge Integration
+FaceApp,Wireless Lab,AI Face Editing App
+FaceNet,Google,Facial Recognition System
+Falcon,Technology Innovation Institute,Language Model
+Festival,University of Edinburgh,Speech Synthesis System
+Gemini (formerly Bard),Google DeepMind,Text Content Generator
+Gemini,Google DeepMind,Multimodal Large Language Model
+Gemma,Google DeepMind,Lightweight Large Language Model
+Google Brain,Google,Deep Learning Research
+Google Cloud Vision AI,Google,Image Analysis and Recognition
+GPT-3.5,OpenAI,Conversational AI
+GPT-3,OpenAI,Text Content Generator
+GPT-4,OpenAI,Advanced Language Model
+Grok,xAI,Conversational AI
+H2O.ai,H2O.ai,Machine Learning Platform
+Habermas Machine,Google DeepMind,AI for Identifying Common Ground in Discussions
+Human Brain Project,European Commission,Neuroscience Research and Simulation
+IBM Debater,IBM,AI System for Argumentation
+IBM Watson Health,IBM,AI for Medical Diagnosis
+IBM Watson,IBM,AI Business Solutions
+iFlytek,iFlytek,Chinese IT Company Specializing in Speech Recognition
+Jasper,Jasper AI,AI Content Platform
+Kavout,Kavout,AI for Stock Market Analysis
+Keras,François Chollet,Neural Network Library
+LaMDA,Google,Language Model for Dialogue Applications
+Leela Chess Zero,Community-driven,Chess AI
+LLaMA,Meta (Facebook),Large Language Model for Research
+Llama,Meta,Large Language Model
+Megvii,Megvii Technology,AI Company Known for Face++ Facial Recognition
+Melomics,University of Málaga,AI Music Composition
+Microsoft Cognitive Toolkit (CNTK),Microsoft,Deep Learning Framework
+Midjourney,Midjourney Inc.,AI Art Generation
+Mistral,Mistral AI,Language Model
+Mitsuku,Steve Worswick,AI Chatbot
+MXNet,Apache Software Foundation,Deep Learning Framework
+OpenAI Codex,OpenAI,AI System for Code Generation
+OpenAI Gym,OpenAI,Reinforcement Learning Toolkit
+OpenCog,OpenCog Foundation,Artificial General Intelligence Framework
+OpenFace,Carnegie Mellon University,Facial Behavior Analysis Toolkit
+OpenNN,Artelnics,Neural Network Library
+PaddlePaddle,Baidu,Deep Learning Platform
+PaLM,Google,Large Language Model
+PathAI,PathAI,AI for Pathology
+Perplexity AI,Perplexity,AI-powered Search Engine
+Prisma,Prisma Labs,AI Photo Editing App
+PyTorch,Meta (Facebook),Machine Learning Framework
+RapidMiner,RapidMiner,Data Science Platform
+Replika,Luka Inc.,AI Chatbot Companion
+Runway Gen-2,Runway,AI Video Generation
+Runway ML,Runway AI,AI Video Editing and Content Creation
+Rytr,Rytr,AI Writing Assistant
+SenseTime,SenseTime Group,AI Software Company Specializing in Computer Vision
+SIMA,Google DeepMind,AI Agent for 3D Virtual Environments
+Siri,Apple,Personal Voice Assistant
+Sophia,Hanson Robotics,Social Humanoid Robot
+Stable Diffusion,Stability AI,Image Generation
+Stockfish,Stockfish Developers,Chess AI
+Synthesia,Synthesia Ltd.,AI Video Creation Platform
+T5,Google,Text-to-Text Transformer
+TensorFlow,Google,Machine Learning Framework
+Tesla FSD,Tesla,Self-Driving AI
+Theano,University of Montreal,Deep Learning Library
+Vicarious,Vicarious AI,AI for Visual Perception and Robotics
+Watson,IBM,Question Answering and Data Analysis
+WaveNet,DeepMind,Speech Synthesis Model
+Waymo AI,Alphabet,Autonomous Driving
+Whisper,OpenAI,Speech Recognition System
+Writesonic,Writesonic,AI Writing Assistant
+YandexGPT,Yandex,Language Model
+YOLO,Joseph Redmon,Real-Time Object Detection System
